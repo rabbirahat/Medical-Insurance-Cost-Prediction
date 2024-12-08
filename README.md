@@ -17,41 +17,46 @@ The rising cost of medical insurance has made it important to predict premium am
 
 ### 2. Features
 
-i. Exploratory Data Analysis (EDA) to understand trends and correlations in the dataset.
+  - Exploratory Data Analysis (EDA) to understand trends and correlations in the dataset.
 
-ii. Data preprocessing, including handling missing values and encoding categorical variables.
+  - Data preprocessing, including handling missing values and encoding categorical variables.
 
-iii. Model building and training using algorithms like linear regression, decision trees, and random forests.
+  - Model building and training using algorithms like linear regression, decision trees, and random forests.
 
-iv. Model evaluation with metrics such as Mean Absolute Error (MAE) and Root Mean Squared Error (RMSE).
+  - Model evaluation with metrics such as Mean Absolute Error (MAE) and Root Mean Squared Error (RMSE).
 
 ### 3. Technologies Used
 
 i. Programming Language: Python
 
 ii. Libraries: 
-#### pandas, numpy, matplotlib, seaborn, scikit-learn, Jupyter Notebook
 
+  - pandas
+  - numpy
+  - matplotlib
+  - seaborn
+  - scikit-learn
+  - Jupyter Notebook
 ### 4. Notebook Structure
 
 The notebook is structured as follows:
 
--> Introduction: Overview and objectives of the project.
+- Introduction: Overview and objectives of the project.
 
--> EDA: Visualization and statistical analysis of the dataset.
+- EDA: Visualization and statistical analysis of the dataset.
 
--> Data Preprocessing: Handling missing values, encoding, and feature scaling.
+- Data Preprocessing: Handling missing values, encoding, and feature scaling.
 
--> Model Training: Building and evaluating machine learning models.
+- Model Training: Building and evaluating machine learning models.
 
--> Results and Insights: Performance metrics and model comparison.
+- Results and Insights: Performance metrics and model comparison.
 
 ### 5. Results
 
 The best-performing model achieves the following metrics:
 
-a. Mean Absolute Error (MAE)
+- Mean Absolute Error (MAE)
 
-b. Root Mean Squared Error (RMSE)
+- Root Mean Squared Error (RMSE)
 
-These results indicate the model's ability to predict insurance costs with reasonable accuracy.
+### These results indicate the model's ability to predict insurance costs with reasonable accuracy.
